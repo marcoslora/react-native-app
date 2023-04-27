@@ -1,0 +1,3 @@
+npx create-expo-app react-native-learn -t expo-template-blank-typescript
+npm run android
+npm install -g npm-check-updates
